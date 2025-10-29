@@ -1,6 +1,6 @@
 ﻿# Meu Projeto de Data Science - Análise de Filmes TMDB
 
-echo "# 🎬 Análise de Filmes TMDB - Distribuição de Notas
+# 🎬 Análise de Filmes TMDB - Distribuição de Notas
 
 ## 📊 Sobre o Projeto
 Análise exploratória do dataset TMDB 5000 Movies para entender a distribuição de notas dos filmes.
@@ -23,4 +23,5 @@ python src/analise_filmes.py
 - Visualização profissional com Seaborn
 
 ## 👨‍💻 Autor
-Willian Fernando" > README.md
+Willian Fernando > README.md
+
